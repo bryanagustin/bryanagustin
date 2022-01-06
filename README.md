@@ -1,5 +1,5 @@
 ### Hi there, Bryan! 👋
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Cog-Creators" alt="yus" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=SudhanPlayz" alt="yus" /> </p>
 </a> </p>
 
 <p align="center"> <img src="https://discord.c99.nl/widget/theme-3/784002712987369484.png" alt="Discord" /> </p>
@@ -14,7 +14,7 @@ I am a Trader and Programmer ✨ from Indonesian and my hobby is coding and trad
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ontel03&show_icons=true&layout=compact&hide_border=true&theme=dark" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cog-Creators&show_icons=true&theme=radical&line_height=21" alt="Cog-Creators' github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SudhanPlayz&show_icons=true&theme=radical&line_height=21" alt="SudhanPlayz' github stats"/>
 
 
 <!---
