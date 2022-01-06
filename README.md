@@ -8,7 +8,7 @@
 
 I am a Trader and Programmer ✨ from Indonesian and my hobby is coding and trading.
 - 🌱 I’m currently learning React
-- 🤖 Website my bot https://coming.soon/
+- 🤖 Website my bot https://google.com
 - 🥅 2022 Goals: $100K in my portfolio trading :)
 
 
